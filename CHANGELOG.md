@@ -1,5 +1,5 @@
 # Changelog
-
+* 0.0.4.1 - August 27, 2011 - Updated to latest Formalize from Nathan
 * [0.0.4 - July 7,
 2011](https://github.com/pengwynn/compass_formalize/compare/v0.0.3...v0.0.4)
 * [0.0.3 - June  25,
